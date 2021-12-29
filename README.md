@@ -17,3 +17,5 @@ I am open for internship/part-time offers.
  Figma/Avocode/AdobeCC;
 
 ![Kate Yachmeneva's GitHub stats](https://github-readme-stats.vercel.app/api?username=KateYachmeneva)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateYachmeneva&layout=compact)
