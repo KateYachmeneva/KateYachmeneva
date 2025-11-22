@@ -10,7 +10,7 @@ I am glad to see you on my GH collection. I'm in web development since 2020.
  WebPack 5+;
  Node.js;
  Git;
- CI/CD, Appveyor/Heroku;
+ CI/CD, 
  Figma/Avocode/AdobeCC;
 
 ![Kate Yachmeneva's GitHub stats](https://github-readme-stats.vercel.app/api?username=KateYachmeneva)
